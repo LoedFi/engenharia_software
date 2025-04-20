@@ -1,0 +1,45 @@
+Características desejáveis de um bom produto de software:
+
+Funcionalidade
+O software deve atender corretamente aos requisitos para os quais foi desenvolvido.
+
+As funcionalidades precisam estar completas, corretas e alinhadas às necessidades do usuário.
+
+ Confiabilidade
+O sistema deve funcionar de maneira estável e consistente, mesmo em condições inesperadas.
+
+Deve apresentar baixa taxa de falhas e alta disponibilidade.
+
+ Usabilidade
+Interface intuitiva e fácil de usar.
+
+Deve permitir que usuários com diferentes níveis de conhecimento consigam utilizá-lo sem dificuldades.
+
+ Eficiência
+Boa performance em termos de tempo de resposta e uso de recursos (memória, processamento, etc.).
+
+Deve ser otimizado para funcionar bem nos ambientes onde será utilizado.
+
+ Manutenibilidade
+Código organizado, bem documentado e modular para facilitar manutenção, correções e melhorias futuras.
+
+Facilita também a identificação e correção de erros.
+
+ Portabilidade
+Deve poder ser transferido e adaptado para diferentes plataformas e ambientes com facilidade.
+
+Ex: rodar em diferentes sistemas operacionais, navegadores ou dispositivos.
+
+Segurança
+Protege dados dos usuários e impede acessos não autorizados.
+
+Deve implementar boas práticas de segurança, como criptografia, autenticação e controle de acesso.
+
+Escalabilidade
+Capacidade de crescer (em número de usuários ou volume de dados) sem perder desempenho ou qualidade.
+
+✅ 9. Compatibilidade
+Integra-se bem com outros sistemas, softwares ou serviços, evitando conflitos ou falhas.
+
+✅ 10. Acessibilidade
+Deve ser utilizável por pessoas com deficiências, seguindo diretrizes de acessibilidade
